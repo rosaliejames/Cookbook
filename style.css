@@ -1,0 +1,30 @@
+
+tr { 
+	background-color: #ecf9f2;
+	/*border: 1px solid black;*/
+ }
+
+ th { 
+ 	background-color: #9fdfbf;
+ 	/*border: 1px solid #206040;*/
+}
+
+table { 
+	padding: 10px;
+	text-align: center;
+	border-collapse: collapse;
+	border: 1px solid #206040;
+	
+}
+
+h1 { 
+	color: #206040;
+ }
+
+h3 { 
+	color: #40bf80;
+ }
+
+body { 
+ 	background-color: #f5f5f0;
+  }

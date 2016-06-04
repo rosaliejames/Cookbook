@@ -1,0 +1,73 @@
+<cookbook>
+    <categories>
+        <BreakfastMenu>
+                <recipe>
+                    <title> Bacon Egg and Cheese
+                    </title>
+                    <ingredients> Bacon#Eggs#Cheese#Bread
+                    </ingredients>
+                    <directions> Toast bread#Scramble Eggs#Melt Cheese#Fry Bacon#Put eggs, bacon, and cheese on toast
+                    </directions>
+                    <rating> 3
+                    </rating>
+                </recipe>
+                <recipe>
+                    <title> Pancakes
+                    </title>
+                    <ingredients> Flour#Baking Powder#Salt#Sugar#Eggs#Milk#Butter
+                    </ingredients>
+                    <directions> Mix flour, baking soda, salt and sugar#Add Eggs, Milk and Butter#Beat Batter#Pour onto pan#Flip#Remove pancake when cooked
+                    </directions>
+                    <rating> 3
+                    </rating>
+                </recipe>
+        </BreakfastMenu>
+
+        <DessertMenu>
+            <recipe>
+                <title> Ice Cream Sundae
+                </title>
+                <ingredients> Vanilla Ice Cream#Hot Fudge#Whipped Cream#Sprinkles
+                </ingredients>
+                <directions> Scoop Ice Cream#Heat Hot fudge#Pour hot fudge over ice cream#Add Whipped Cream and Sprinkles
+                </directions>
+                <rating> 2
+                </rating>
+            </recipe>
+            <recipe>
+                <title> Chocolate Chip Cookies
+                </title>
+                <ingredients> Flour#Sugar#Salt#Baking Powder#Eggs#Butter#Vanilla Extract#Chocolate Chips
+                </ingredients>
+                <directions> Mix Flour, Salt, and Baking Powder#Beat Butter Vanilla and Sugar#Add eggs#Add Dry mixture#Add chocolate chips#Bake for 9 minutes
+                </directions>
+                <rating> 3
+                </rating>
+            </recipe>
+
+        </DessertMenu>
+
+        <FavoritesMenu>
+            <recipe>
+                <title> Pizza
+                </title>
+                <ingredients> Dough#Tomato Sauce#Mozarella Cheese
+                </ingredients>
+                <directions> Toss Dough#Spread Tomato Sauce#Sprinkle Cheese#Bake
+                </directions>
+                <rating> 3
+                </rating>
+            </recipe>
+            <recipe>
+                <title> Tacos
+                </title>
+                <ingredients> Chicken#Pico de Gallo#Guacamole#Lettuce#Tortilla
+                </ingredients>
+                <directions> Cook Chicken#Heat Tortilla#Place ingredients on tortilla#Roll up
+                </directions>
+                <rating> 1
+                </rating>
+            </recipe>
+        </FavoritesMenu>        
+    </categories>
+</cookbook>
